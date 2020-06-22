@@ -26,7 +26,7 @@ func applicationDidFinishLaunching(_ aNotification: Notification)
 ```
 
 #### Objective C
-```objective-c
+```objectivec
 @import CobrowseIO;
 
 - (void)applicationDidFinishLaunching:(NSNotification *)notification
